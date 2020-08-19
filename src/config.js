@@ -1,5 +1,6 @@
 export default {
   MAX_ATTACHMENT_SIZE: 5000000,
+  STRIPE_KEY: "pk_test_51HHXNzFLedMKqreJKsRCAOjKrtofYitKl4Rtyj5iqGU8VnNJleD1Q1ivTzlBVos8e1g9JhRiugNF3iL3epF8vkUO002kPihVb0",
   s3: {
     REGION: "us-west-2",
     BUCKET: "notes-aws-tutorial-uploads"
